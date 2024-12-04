@@ -1,0 +1,2 @@
+pyspark==3.3.0
+org.xerial:sqlite-jdbc:3.36.0
